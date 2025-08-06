@@ -123,5 +123,3 @@ Feel free to fork the repo, add features, or fix bugs via PRs!
 ## 🔗 Connect With Me
 
 * LinkedIn: www.linkedin.com/in/data-fardeen-234619289
-Want me to generate those files for you too?
-```
