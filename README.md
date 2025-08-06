@@ -1,4 +1,4 @@
-# 🎨 BrandGenAI – AI-Powered Logo Generator from English Prompts
+# 🎨 BrandGenAI – AI-Powered Image/Logo Generator from English Prompts
 
 **BrandGenAI** is a powerful AI tool that generates unique, high-quality brand logos or images from simple English text prompts using the Stable Diffusion model. Whether you're an entrepreneur, designer, or developer, you can create stunning logo ideas without any design skills — just type your idea and let the AI visualize it.
 
