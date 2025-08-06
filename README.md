@@ -8,7 +8,7 @@
 ## 🚀 Features
 
 - ✏️ **Text-to-Image/Logo Generation**  
-  Enter a brand description in English and generate logos instantly.
+  Enter a brand description in English and generate Images & logos instantly.
 
 - 🎨 **AI-Powered Design**  
   Built using [Stable Diffusion v1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5) for rich and creative results.
@@ -20,7 +20,7 @@
   Runs on CPU or GPU via Google Colab — no setup required.
 
 - 📁 **Image Export**  
-  Download high-quality `.png` logos directly from the interface.
+  Download high-quality `.png` Images & logos directly from the interface.
 
 ---
 
