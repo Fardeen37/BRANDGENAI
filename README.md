@@ -64,7 +64,7 @@ python app.py
 
 ### ☁️ Or Run on Google Colab (No Installation)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/your-colab-link-here)
+https://colab.research.google.com/drive/1dLSxZ9xZNQXSwDS3W5QNqX6_2KxQe3nm?usp=sharing
 
 ---
 
@@ -95,7 +95,6 @@ You can adjust the following in the UI:
 * `Guidance Scale`: Controls prompt creativity (lower = more wild)
 
 ---
-
 
 ## 📄 License
 
